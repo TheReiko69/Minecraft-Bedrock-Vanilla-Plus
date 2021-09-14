@@ -1,0 +1,79 @@
+Vanilla+
+Description: An addon that changes some core mechanics of how survival is played!
+
+Creator of this addon!
+The Reiko69 or Reiko#3959 on discord! (Feel free to friend me if you want ;)
+
+A thank you to those who have helped me make this addon become a reality!
+
+Seion for giving me plenty of ideas on what to change to make the core game more intresting than vanilla Minecraft!
+
+The Bedrock.dev community has helped out immensely with teaching me how to code some hard parts in this addon and how to get everything working properly! So I thank everyone who has helped me there. here is a discord link for there server if you wanna join and show your support to them! https://discord.gg46JUdQb
+
+My entire community as a whole! Giving me ideas on what to change and how to improve on the ideas I already have implemented!
+
+Version History:
+Version 1.0.0
+
+Changes that were made:
+- Food rework! Cooked foods now heal you like in the Java Edition of Minecraft when eaten! Uncooked meat foods also have a chance to poison you but have the same hunger gain as cooked foods (Except for the saturation, uncooked foods will also give you less saturation!) Foods now take usually much longer or shorter to eat! But give you a more meaningful impact to your hunger and saturation depending on the food type!
+
+- Stews Rework! Rabbit Stew, Mushroom Stew, and beetroot stew now each give different effects upon eating them! Mushroom stew give regeneration 1 for 15 seconds, beetroot stew gives resistance 1 for 15 seconds, and rabbit stew gives jump boost 1 for 15 seconds! All 3 stews are also instant eat as well and are stackable up to 8!(Now with an enchanted tint as a cherry on top ;) )
+
+- Enchanted Golden Apples and Golden apples rework! Both types of gaps now give much more intense effects but for an shortened amount of time, as well as both being able to be instantly eaten!\n\nEnchanted Apples effects are as follows,
+
+Resistance 4: 5 Seconds
+Strength 4: 5 Seconds
+Regeneration 10: 3 Seconds
+Absorption 4: 10 Seconds
+
+Golden Apples effects are as follows,
+Resistance 2: 5 Seconds
+Strength 2: 5 Seconds
+Regeneration 6: 1 Second
+Absorption 2: 10 Seconds
+
+- Chorus Fruits Rework! Chorus fruits now have no cooldown and are instant eat! However they dont give any hunger at all and the teleport was nerfed from an 8x8x8 to a 4x4x4 area!
+
+- Totem of Undying buff! Now has a passive regeneration 1 and health boost 3 when equipped in your off hand!
+
+- Reworked some mobs! Charged Creepers now have a rare chance to natually spawn! (1 out of 100 chance!) and husks will now poison you rather than give you hunger, making them more of a threat rather than a minor inconvinence!
+
+- Reworked Potions! Now regular potions will stack up to 8 and can be drinked much much faster! Splash and lingering potions have recieved a massive increase of range of which they can be thrown! Making them much more effective as ranged weapons or support items for your friends! Lingering potions now have a sped up time for when they reapply effects! Also being stackable up to 16!
+
+- Ender Pearl Rework! Now being able to be thrown a bit more of a farther distance!
+
+- Added some originally uncraftable items! here they are!
+
+- Saddles can be craftable now! from leather, iron ingots and iron nuggets!
+
+- Chainmail armor now can be made from chains
+
+- Monster Spawners can be crafted from iron bars!
+
+- Zombie, Creeper, Skeleton, and Wither Skeleton mob eggs can now be crafted from mob heads and eggs! (Pssttt, You get mob heads from charged creepers in case yha dint know ;) )
+
+- Elytra's are now craftable from some string, popped chorus fruit, leather, feathers and phantom membranes!
+
+- All horse armors are now craftable with leather horse armor and then the armor's material around the leather horse armor!
+
+- Enchanted Golden Apples are now craftable with 8 gold blocks around a golden apple!
+
+- Totem of Undying's are now craftable with a gold helmet, 3 gold blocks, an enchanted golden apple, and 2 emeralds!
+
+- Chains are now crafted using 3 nuggets instead of 2 nuggets and 1 iron ingot!
+
+Version 1.0.3
+
+Bug Fixes:
+- Improved totem health start back time when a higher limited time regren is applied. (used to have to wait usually 3 seconds before the regeneration effect would apply agan after eating food and getting the small temperary regen boost. Now it will reapply itself near instantly after the temp regen boost is gone, ame applies for normal potion use for regen as well)
+
+- Fixed a few of the broken crafting recipes introduced in version 1.0.0
+
+Additions/changes:
+
+- Added and customized Glow berries to the food list! they give you absorption hearts for 15 seconds! As well as made them craftable and glow!
+
+- Made the golden carrot glow
+
+- Changed rabbit stew to give speed 1 instead of jump boost 1

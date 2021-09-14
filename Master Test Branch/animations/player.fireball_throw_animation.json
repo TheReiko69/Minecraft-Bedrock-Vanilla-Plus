@@ -1,0 +1,14 @@
+{
+    "format_version": "1.10.0",
+    "animations": {
+      "animation.fireball_throw": {
+          "animation_length": 1,
+          "loop": false,
+          "timeline": {
+            "0": [
+              "/summon @s small_fireball"
+            ]
+          }
+      }
+  }
+}

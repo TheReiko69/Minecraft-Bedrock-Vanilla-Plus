@@ -1,0 +1,29 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "minecraft:experience_bottle_from_shulker_shell"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        " X ",
+        "X#X",
+        " X "
+      ],
+      "key": {
+        "#": {
+            "item": "minecraft:potion",
+            "data": 0
+        },
+        "X": {
+          "item": "minecraft:shulker_shell"
+        }
+      },
+      "result": {
+        "item": "minecraft:experience_bottle",
+        "count": 32
+      }
+    }
+  }

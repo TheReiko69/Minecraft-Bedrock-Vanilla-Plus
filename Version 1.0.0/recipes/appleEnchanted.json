@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "minecraft:appleEnchanted"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "###",
+        "#X#",
+        "###"
+      ],
+      "key": {
+        "#": {
+          "item": "minecraft:gold_block"
+        },
+        "X": {
+          "item": "minecraft:golden_apple"
+        }
+      },
+      "result": {
+        "item": "minecraft:appleEnchanted",
+        "data": 0
+      }
+    }
+  }
