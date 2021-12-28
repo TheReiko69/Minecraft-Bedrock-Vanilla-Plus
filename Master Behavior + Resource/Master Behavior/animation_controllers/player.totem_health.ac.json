@@ -1,0 +1,32 @@
+{
+    "format_version": "1.10.0",
+    "animation_controllers": {
+      "controller.animation.player.totemhealtheffect": {
+        "initial_state": "default",
+        "states": {
+          "default": {
+            "transitions": [
+              {
+                "custom_item_equipped": "q.get_equipped_item_name('off_hand') != 'totem_of_undying'"
+              }
+            ],
+            "on_entry": [
+              "@s minecraft:add_totem_health_event",
+              "/say test"
+            ]
+          },
+          "custom_item_equipped": {
+            "transitions": [
+              {
+                "default": "q.get_equipped_item_name('off_hand') == 'totem_of_undying'"
+              }
+            ],
+            "on_entry": [
+              "@s minecraft:remove_totem_health_event",
+              "/say test"
+            ]
+          }
+        }
+      }
+    }
+  }

@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "",
+        "name": "Vanilla+ Resource!",
+        "uuid": "a597b9cc-1090-4650-8989-78f0d3af3c4b",
+        "version": [ 1, 0, 4 ],
+        "min_engine_version": [ 1, 16, 200 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "4a251b26-3af2-4b75-bcd6-2d816d4928d3",
+            "version": [1, 0, 4]
+        }
+    ]
+}
