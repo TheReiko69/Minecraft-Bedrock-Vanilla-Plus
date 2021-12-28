@@ -2,7 +2,7 @@
     "format_version": "1.12",
     "minecraft:recipe_shaped": {
       "description": {
-      "identifier": "reiko:DragonMasterPotion"
+      "identifier": "reiko:DragonMasterPotionNoEgg"
       },
   
       
@@ -18,9 +18,6 @@
             "data": 0
         },
         "X": {
-          "item": "minecraft:end_crystal"
-        },
-        "D": {
             "item": "minecraft:skull",
             "data": 5
           },
