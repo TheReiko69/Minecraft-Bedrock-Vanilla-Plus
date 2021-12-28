@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Resource Pack for Vanilla+'s Custom Items",
+        "name": "Vanilla+ Resource!",
+        "uuid": "02f088cc-1fab-45d7-86c3-bf431bddc7ca",
+        "version": [ 1, 0, 9 ],
+        "min_engine_version": [ 1, 16, 200 ]
+    },
+    "modules": [
+        {
+            "description": "Resource Pack for Vanilla+'s Custom Items",
+            "type": "resources",
+            "uuid": "e650cb38-0316-4b62-b7c8-07bc6fcee9d3",
+            "version": [1, 0, 9]
+        }
+    ]
+}

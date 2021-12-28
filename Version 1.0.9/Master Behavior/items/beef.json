@@ -1,0 +1,24 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:beef"
+    },
+
+    "components": {
+      "minecraft:use_duration": 100,
+      "minecraft:food": {
+        "nutrition": 20,
+        "saturation_modifier": "low",
+        "effects": [
+          {
+            "name": "poison",
+            "chance": 0.75,
+            "duration": 3,
+            "amplifier": 1
+          }
+        ]
+      }
+    }
+  }
+}

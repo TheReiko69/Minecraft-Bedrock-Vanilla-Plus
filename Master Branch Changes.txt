@@ -114,7 +114,7 @@ absorption hearts for 15 seconds! As well as made them craftable and glow!
 
 - Changed rabbit stew to give speed 1 instead of jump boost 1
 
-Version 1.0.5
+Version 1.0.9
 
 - Changed Evoker totem drop rates from 100% too 25%. The Power of a totem is
 so much that I personally feel as if this needed to be addressed as it was way
