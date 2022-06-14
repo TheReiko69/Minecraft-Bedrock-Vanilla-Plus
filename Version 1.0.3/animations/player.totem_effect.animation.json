@@ -1,0 +1,23 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.player.totemregeneffect": {
+			"animation_length": 1,
+			"loop": true,
+			"timeline": {
+				"0": [
+					"/effect @s regeneration 10 0 true"
+				]
+			}
+		},
+		"animation.player.totemhealtheffect": {
+			"animation_length": 1,
+			"loop": true,
+			"timeline": {
+				"0": [
+					"/effect @s health_boost 999999999 2 true"
+				]
+			}
+		}
+	}
+}

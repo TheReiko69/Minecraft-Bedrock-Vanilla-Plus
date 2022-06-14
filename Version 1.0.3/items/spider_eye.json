@@ -1,0 +1,25 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:spider_eye"
+    },
+
+    "components": {
+      "minecraft:use_duration": 12,
+
+      "minecraft:food": {
+        "nutrition": 2,
+        "saturation_modifier": "poor",
+        "effects": [
+          {
+            "name": "poison",
+            "chance": 1.0,
+            "duration": 3,
+            "amplifier": 3
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Vanilla+\n\nDescription:\nAn addon that changes some core mechanics of how survival is played!\n\nCreator of this addon!\nThe Reiko69 or Reiko#3959 on discord!\n(Feel free to friend me if you want ;) )\n\nA thank you to those who have helped me make this addon become a reality!\n\nSeion for giving me plenty of ideas on what to change to make the core game more intresting than vanilla Minecraft!\n\nThe Bedrock.dev community has helped out immensely with teaching me how to code some hard parts in this addon and how to get everything working properly! So I thank everyone who has helped me there. here is a discord link for there server if you wanna join and show your support to them!\n\nhttps://discord.gg46JUdQb\n\nMy entire community as a whole! Giving me ideas on what to change and how to improve on the ideas I already have implemented!\n\nVersion History up to 1.0.9 Paste\n\nhttps://pastebin.com/fNtheCiw",
+        "name": "Vanilla+",
+        "uuid": "d59cd950-f634-4458-8d85-4ffe4a8fd126",
+        "version": [ 1, 0, 9 ],
+        "min_engine_version": [ 1, 17, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Vanilla+\n\nDescription:\nAn addon that changes some core mechanics of how survival is played!\n\nCreator of this addon!\nThe Reiko69 or Reiko#3959 on discord!\n(Feel free to friend me if you want ;) )\n\nA thank you to those who have helped me make this addon become a reality!\n\nSeion for giving me plenty of ideas on what to change to make the core game more intresting than vanilla Minecraft!\n\nThe Bedrock.dev community has helped out immensely with teaching me how to code some hard parts in this addon and how to get everything working properly! So I thank everyone who has helped me there. here is a discord link for there server if you wanna join and show your support to them!\n\nhttps://discord.gg46JUdQb\n\nMy entire community as a whole! Giving me ideas on what to change and how to improve on the ideas I already have implemented!\n\nVersion History up to 1.0.9 Paste\n\nhttps://pastebin.com/fNtheCiw",
+            "type": "data",
+            "uuid": "736a7fe6-6d33-4b91-8676-0a3de035e9f4",
+            "version": [1, 0, 9]
+        }
+    ]
+}

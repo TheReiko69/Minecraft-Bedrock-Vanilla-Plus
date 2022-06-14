@@ -1,0 +1,29 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "minecraft:experience_bottle_from_ender_pearl"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        " X ",
+        "X#X",
+        " X "
+      ],
+      "key": {
+        "#": {
+            "item": "minecraft:potion",
+            "data": 0
+        },
+        "X": {
+          "item": "minecraft:ender_pearl"
+        }
+      },
+      "result": {
+        "item": "minecraft:experience_bottle",
+        "count": 32
+      }
+    }
+  }

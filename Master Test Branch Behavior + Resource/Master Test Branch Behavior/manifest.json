@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Vanilla+\n\nDescription:\nAn addon that changes some core mechanics of how survival is played!\n\nCreator of this addon!\nThe Reiko69 or Reiko#3959 on discord!\n(Feel free to friend me if you want ;) )\n\nA thank you to those who have helped me make this addon become a reality!\n\nSeion for giving me plenty of ideas on what to change to make the core game more intresting than vanilla Minecraft!\n\nThe Bedrock.dev community has helped out immensely with teaching me how to code some hard parts in this addon and how to get everything working properly! So I thank everyone who has helped me there. here is a discord link for there server if you wanna join and show your support to them!\n\nhttps://discord.gg46JUdQb\n\nMy entire community as a whole! Giving me ideas on what to change and how to improve on the ideas I already have implemented!",
+        "name": "Vanilla+ Tester!",
+        "uuid": "8784e791-27b7-436c-ad8c-907a598c80e1",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 16, 200 ]
+    },
+    "modules": [
+        {
+            "description": "Vanilla+\n\nDescription:\nAn addon that changes some core mechanics of how survival is played!\n\nCreator of this addon!\nThe Reiko69 or Reiko#3959 on discord!\n(Feel free to friend me if you want ;) )\n\nA thank you to those who have helped me make this addon become a reality!\n\nSeion for giving me plenty of ideas on what to change to make the core game more intresting than vanilla Minecraft!\n\nThe Bedrock.dev community has helped out immensely with teaching me how to code some hard parts in this addon and how to get everything working properly! So I thank everyone who has helped me there. here is a discord link for there server if you wanna join and show your support to them!\n\nhttps://discord.gg46JUdQb\n\nMy entire community as a whole! Giving me ideas on what to change and how to improve on the ideas I already have implemented!",
+            "type": "data",
+            "uuid": "9abca7c4-6695-42c9-8869-48b30fadfe9d",
+            "version": [1, 0, 0]
+        }
+    ]
+}

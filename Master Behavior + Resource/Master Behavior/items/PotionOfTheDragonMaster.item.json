@@ -1,0 +1,87 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "reiko:DragonMasterPotion"
+		},
+		"components": {
+			"minecraft:hand_equipped": false,
+			"minecraft:stacked_by_data": true,
+			"minecraft:foil": true,
+			"minecraft:max_stack_size": 8,
+			"minecraft:use_duration": 12,
+			"minecraft:use_animation": "drink",
+			"minecraft:icon": {
+				"texture": "DragonMasterPotion"
+			  },
+			"minecraft:food": {
+				"nutrition": 0,
+				"saturation_modifier": false,
+				"can_always_eat": true,
+                "using_converts_to": "glass_bottle",
+				"effects": [
+					{
+						"name": "regeneration",
+						"chance": 1.0,
+						"duration": 90,
+						"amplifier": 9
+					},
+					{
+						"name": "strength",
+						"chance": 1.0,
+						"duration": 90,
+						"amplifier": 9
+					},
+                    {
+						"name": "resistance",
+						"chance": 1.0,
+						"duration": 15,
+						"amplifier": 5
+					},
+                    {
+						"name": "fire_resistance",
+						"chance": 1.0,
+						"duration": 180,
+						"amplifier": 0
+					},
+                    {
+						"name": "night_vision",
+						"chance": 1.0,
+						"duration": 90,
+						"amplifier": 0
+					},
+                    {
+						"name": "health_boost",
+						"chance": 1.0,
+						"duration": 120,
+						"amplifier": 9
+					},
+                    {
+						"name": "saturation",
+						"chance": 1.0,
+						"duration": 180,
+						"amplifier": 9
+					},
+                    {
+						"name": "strength",
+						"chance": 1.0,
+						"duration": 90,
+						"amplifier": 9
+					},
+                    {
+						"name": "haste",
+						"chance": 1.0,
+						"duration": 90,
+						"amplifier": 180
+					},
+                    {
+						"name": "speed",
+						"chance": 1.0,
+						"duration": 90,
+						"amplifier": 4
+					}
+				]
+			}
+		}
+	}
+}

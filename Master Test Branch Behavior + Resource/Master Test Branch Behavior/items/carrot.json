@@ -1,0 +1,20 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:carrot"
+    },
+
+    "components": {
+      "minecraft:use_duration": 8,
+
+      "minecraft:food": {
+        "nutrition": 4,
+        "saturation_modifier": "low"
+      },
+      "minecraft:seed": {
+        "crop_result": "carrots"
+      }
+    }
+  }
+}

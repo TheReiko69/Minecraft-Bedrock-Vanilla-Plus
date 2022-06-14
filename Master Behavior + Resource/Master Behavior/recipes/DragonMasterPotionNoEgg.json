@@ -1,0 +1,33 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "reiko:DragonMasterPotionNoEgg"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "NXN",
+        "X#X",
+        "NXN"
+      ],
+      "key": {
+        "#": {
+            "item": "minecraft:potion",
+            "data": 0
+        },
+        "X": {
+            "item": "minecraft:skull",
+            "data": 5
+          },
+        "N": {
+            "item": "minecraft:netherite_ingot"
+          }
+      },
+      "result": {
+        "item": "reiko:DragonMasterPotion",
+        "count": 1
+      }
+    }
+  }
