@@ -1,0 +1,25 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:muttonRaw"
+    },
+
+    "components": {
+      "minecraft:use_duration": 56,
+
+      "minecraft:food": {
+        "nutrition": 12,
+        "saturation_modifier": "low",
+        "effects": [
+          {
+            "name": "poison",
+            "chance": 0.75,
+            "duration": 3,
+            "amplifier": 1
+          }
+        ]
+      }
+    }
+  }
+}

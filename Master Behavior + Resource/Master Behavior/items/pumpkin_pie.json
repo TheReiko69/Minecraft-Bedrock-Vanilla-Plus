@@ -6,10 +6,10 @@
     },
 
     "components": {
-      "minecraft:use_duration": 72,
+      "minecraft:use_duration": 36,
       "minecraft:food": {
         "nutrition": 15,
-        "saturation_modifier": "normal"
+        "saturation_modifier": "great"
       }
     }
   }

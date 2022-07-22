@@ -47,7 +47,7 @@
                     {
 						"name": "night_vision",
 						"chance": 1.0,
-						"duration": 90,
+						"duration": 180,
 						"amplifier": 0
 					},
                     {
@@ -63,16 +63,10 @@
 						"amplifier": 9
 					},
                     {
-						"name": "strength",
-						"chance": 1.0,
-						"duration": 90,
-						"amplifier": 9
-					},
-                    {
 						"name": "haste",
 						"chance": 1.0,
-						"duration": 90,
-						"amplifier": 180
+						"duration": 120,
+						"amplifier": 9
 					},
                     {
 						"name": "speed",

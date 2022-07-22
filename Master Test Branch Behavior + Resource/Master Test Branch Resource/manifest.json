@@ -4,15 +4,15 @@
         "description": "",
         "name": "Vanilla+ Tester!",
         "uuid": "a597b9cc-1090-4650-8989-78f0d3af3c4b",
-        "version": [ 1, 0, 0 ],
-        "min_engine_version": [ 1, 16, 200 ]
+        "version": [ 1, 0, 10 ],
+        "min_engine_version": [ 1, 19, 10 ]
     },
     "modules": [
         {
             "description": "",
             "type": "resources",
             "uuid": "4a251b26-3af2-4b75-bcd6-2d816d4928d3",
-            "version": [1, 0, 0]
+            "version": [1, 0, 10]
         }
     ]
 }

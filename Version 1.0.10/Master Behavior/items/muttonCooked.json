@@ -1,0 +1,25 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:muttonCooked"
+    },
+
+    "components": {
+      "minecraft:use_duration": 48,
+
+      "minecraft:food": {
+        "nutrition": 12,
+        "saturation_modifier": "great",
+        "effects": [
+          {
+            "name": "regeneration",
+            "chance": 1.0,
+            "duration": 1,
+            "amplifier": 3
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.player.totem_regen_effect": {
+			"animation_length": 1,
+			"loop": true,
+			"timeline": {
+				"0": [
+					"/effect @s regeneration 10 0 true"
+				]
+			}
+		}
+	}
+}

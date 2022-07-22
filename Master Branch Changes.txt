@@ -175,3 +175,8 @@ and 1 wood to craft. Hopefully this makes the shield still a viable alternative
 to the totem in the end game when you already probably have a totem, making
 players have to decide on more general defense overall, or more health and being
 able to regenerate health constantly.
+
+Version 1.0.10
+
+- Optimized the entire pack for 1.19.10, slimmed down pack size significantly, slight
+adjustments to food

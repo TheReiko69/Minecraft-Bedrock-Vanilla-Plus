@@ -7,7 +7,7 @@
 
     "components": {
       "minecraft:use_duration": 4,
-      "minecraft:foil": true,
+
       "minecraft:food": {
         "nutrition": 8,
         "saturation_modifier": "supernatural",

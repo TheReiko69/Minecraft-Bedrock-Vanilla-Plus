@@ -1,0 +1,14 @@
+{
+	"format_version": "1.10",
+	"minecraft:item": {
+		"description": {
+			"identifier": "reiko:DragonMasterPotion",
+			"catagory": "Nature"
+		},
+		"components": {
+			"minecraft:icon": "DragonMasterPotion",
+			"minecraft:use_animation": "drink",
+            "minecraft:render_offsets": "potion"
+		}
+	}
+}

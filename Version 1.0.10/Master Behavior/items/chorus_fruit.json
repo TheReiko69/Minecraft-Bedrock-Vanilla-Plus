@@ -1,0 +1,19 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:chorus_fruit"
+    },
+
+    "components": {
+      "minecraft:use_duration": 1,
+      "minecraft:food": {
+        "nutrition": 0,
+        "on_use_action": "chorus_teleport",
+        "on_use_range": [ 4, 4, 4 ],
+        "cooldown_type": "chorusfruit",
+        "can_always_eat": true
+      }
+    }
+  }
+}
